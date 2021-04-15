@@ -1,5 +1,7 @@
 ### Hey there 👋
 
+<img src="https://komarev.com/ghpvc/?username=albinvar&label=Profile%20views&color=0e75b6&style=flat" alt="albinvar" /> 
+
 **albinvar/albinvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
