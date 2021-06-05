@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 <code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" /></code>
 <code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" /></code>
 </p>
+
+[![Albin's github streak](https://github-readme-streak-stats.herokuapp.com/?user=albinvar&theme=blue-green)](https://github.com/albinvar/github-readme-streak-stats)
+
+
