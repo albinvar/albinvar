@@ -1,4 +1,7 @@
-### Hey there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Albin Varghese</h1>
 
 <img src="https://komarev.com/ghpvc/?username=albinvar&label=Profile%20views&color=0e75b6&style=flat" alt="albinvar" /> 
 
@@ -21,3 +24,6 @@
 [![Albin's github streak](https://github-readme-streak-stats.herokuapp.com/?user=albinvar&theme=blue-green)](https://github.com/albinvar/github-readme-streak-stats)
 
 
+<p align="center">
+  <img src="https://github.com/albinvar/albinvar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
