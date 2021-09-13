@@ -5,20 +5,36 @@
 
 <img src="https://komarev.com/ghpvc/?username=albinvar&label=Profile%20views&color=0e75b6&style=flat" alt="albinvar" /> 
 
-**albinvar/albinvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A self-taught full-stack developer
 
 [![Albin's github stats](https://github-readme-stats.vercel.app/api?username=albinvar&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/albinvar/github-readme-stats)
 
 ## Laungauges and Tools
 
 <p align="center">
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" /></code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" /></code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" /></code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" /></code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /></code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" /></code>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="vuejs" width="32" height="32"/> </code>
+<code><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="32" height="32"/> </code>
+<code><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="ssh" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width="32" height="32"/> </code>
 </p>
 
 [![Albin's github streak](https://github-readme-streak-stats.herokuapp.com/?user=albinvar&theme=blue-green)](https://github.com/albinvar/github-readme-streak-stats)
