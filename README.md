@@ -44,10 +44,9 @@ A self-taught full-stack developer
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width="32" height="32"/> </code>
 </p>
 
-[![Albin's github streak](https://github-readme-streak-stats.herokuapp.com/?user=albinvar&theme=blue-green)](https://github.com/albinvar/github-readme-streak-stats)
-
 <hr>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinvar&theme=blue-green" alt="snake"></center>
   <img src="https://github.com/albinvar/albinvar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
