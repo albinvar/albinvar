@@ -50,3 +50,5 @@ A self-taught full-stack developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinvar&theme=blue-green" alt="snake"></center>
   <img src="https://github.com/albinvar/albinvar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+[![@albinvar's Holopin board](https://holopin.me/albinvar)](https://holopin.io/@albinvar)
