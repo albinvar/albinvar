@@ -42,6 +42,14 @@ A self-taught full-stack developer
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="32" height="32"/> </code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="32" height="32"/> </code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> </code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="32" height="32"/> </code>
 </p>
 
 <hr>
