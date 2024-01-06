@@ -5,7 +5,31 @@
 
 <img src="https://komarev.com/ghpvc/?username=albinvar&label=Profile%20views&color=0e75b6&style=flat" alt="albinvar" /> 
 
-A self-taught full-stack developer
+A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... maybe. 🤷‍♂️
+
+```php
+<?php
+$albin_bio = [
+    "name" => "🚀 Albin Varghese 🧙‍♂️",
+    "age" => "Turning the page to my 20th chapter.",
+    "crush_on" => "ChatGPT 🤖🤍 (she's got a way with words)",
+    "education" => "Undergraduate CS Engineer",
+    "interests" => [
+        "Tech Enthusiast 💻",
+        "Coding Sorcerer 🔮",
+        "AI & Web Development Explorer 🌐"
+    ],
+    "fun_fact" => ""
+];
+
+print_r($albin_bio);
+?>
+```
+
+<a href="https://ko-fi.com/sciencepal"> <img src="https://bharvisampat.netlify.app/img/about-me.jpg" alt="side Gif" align="right" width="150" height="auto"/> </a>
+- Fuelled by coffee ☕️ - turning caffeine into code since 2019.
+- 🌐 Visit my [portfolio website](https://albinvar.in/) for more information and to get in touch.
+- 📧 Contact me at: <a href="mailto:mail@albinvar.in">mail@albinvar.in
 
 [![Albin's github stats](https://github-readme-stats.vercel.app/api?username=albinvar&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/albinvar/github-readme-stats)
 
