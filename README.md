@@ -31,7 +31,8 @@ print_r($albin_bio);
 - 🌐 Visit my [portfolio website](https://albinvar.in/) for more information and to get in touch.
 - 📧 Contact me at: <a href="mailto:mail@albinvar.in">mail@albinvar.in
 
-[![Albin's github stats](https://github-readme-stats.vercel.app/api?username=albinvar&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/albinvar/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=albinvar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ## Laungauges and Tools
 
@@ -77,6 +78,9 @@ print_r($albin_bio);
 </p>
 
 <hr>
+
+[![Albin's github stats](https://github-readme-stats.vercel.app/api?username=albinvar&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/albinvar/github-readme-stats)
+
 
 <p align="center">
   <picture>
