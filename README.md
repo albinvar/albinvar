@@ -79,9 +79,6 @@ print_r($albin_bio);
 
 <hr>
 
-[![Albin's github stats](https://github-readme-stats.vercel.app/api?username=albinvar&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/albinvar/github-readme-stats)
-
-
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
