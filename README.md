@@ -87,4 +87,7 @@ print_r($albin_bio);
 </picture>
 </p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=albinvar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![@albinvar's Holopin board](https://holopin.me/albinvar)](https://holopin.io/@albinvar)
