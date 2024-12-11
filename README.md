@@ -47,6 +47,9 @@
 
 ![Metrics](/github-metrics.svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=albinvar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![@albinvar's Holopin board](https://holopin.me/albinvar)](https://holopin.io/@albinvar)
 
 <div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pjvb4rystlprej34jojb3n2uze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)" /></div>  
 
