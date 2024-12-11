@@ -8,8 +8,7 @@
 </div>
 <br>
 
-<div align="center" style="font-size: 18px; line-height: 1.5em;">
-    A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... maybe. 🤷‍♂️
+<div align="left" style="font-size: 18px; line-height: 1.5em;">A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... maybe. 🤷‍♂️
 </div>
 <br>
 
@@ -17,7 +16,7 @@
 <?php
 $albin_bio = [
     "name" => "🚀 Albin Varghese 🧙‍♂️",
-    "age" => "Turning the page to my 20th chapter.",
+    "age" => "Turning the page to my 21th chapter.",
     "crush_on" => "ChatGPT 🤖🤍 (she's got a way with words)",
     "education" => "Undergraduate CS Engineer",
     "interests" => [
@@ -49,7 +48,7 @@ print_r($albin_bio);
 </ul>
 </div>
 
-<div align="center">
+<div align="left">
 <h2>Connect with Me 🌎</h2>
 <a href="https://github.com/albinvar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -70,7 +69,7 @@ print_r($albin_bio);
   
 <br/>  
 
-<div align="center">
+<div align="left">
 <h2>Github Stats 🧮</h2>
 
 ![Metrics](/github-metrics.svg)
