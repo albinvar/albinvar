@@ -7,7 +7,10 @@
 <img src="./GradientLine.gif" align="center" style="width: 100%"/>
 </div>
 <br>
+
+<div align="center" style="font-size: 18px; line-height: 1.5em;">
     A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... maybe. 🤷‍♂️
+</div>
 
 ```php
 <?php
@@ -21,27 +24,32 @@ $albin_bio = [
         "Coding Sorcerer 🔮",
         "AI & Web Development Explorer 🌐"
     ],
-    "fun_fact" => ""
+    "fun_fact" => "I run two companies, Wexron Hosting and Cloxo AI!"
 ];
 
 print_r($albin_bio);
 ?>
 ```
 
-
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=albinvar&theme=gruvbox-duo)](https://git.io/streak-stats)
 
-## Experience 🧑🏻‍💻
-
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,java,c,nodejs,sass,mysql,postgres,sqlite,supabase,redis,bootstrap,tailwindcss,astro,vue,nuxtjs,flask,django,laravel,fastapi,arduino,jquery,anaconda,bash,powershell,vscode,pycharm,phpstorm,webstorm,androidstudio,sublime,vim,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,github,gitlab,npm,yarn,pnpm,bun,vite,postman,aws,azure,heroku,vercel,netlify,cloudflare,docker,windows,linux,ubuntu,kali&perline=16" alt="Languages" />
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" /> -->
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,sklearn,jquery&perline=6" alt="Frameworks" /> -->
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,postman&perline=6" alt="Tools" /> -->
+<div align="center">
+<h2>Experience 🧑🏻‍💻</h2>
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,java,c,nodejs,sass,mysql,postgres,sqlite,supabase,redis,bootstrap,tailwindcss,astro,vue,nuxtjs,flask,django,laravel,fastapi,arduino,jquery,anaconda,bash,powershell,vscode,pycharm,phpstorm,webstorm,androidstudio,sublime,vim,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,github,gitlab,npm,yarn,pnpm,bun,vite,postman,aws,azure,heroku,vercel,netlify,cloudflare,docker,windows,linux,ubuntu,kali&perline=16" alt="Languages and Tools" />
+</div>
 
 <br/> 
 
-## Connect with me 🌎
 <div align="center">
+<h2>About My Companies 🚀</h2>
+<ul style="text-align: left; font-size: 18px;">
+    <li><b>Wexron Hosting:</b> Simplifying web hosting and domain services for individuals and businesses with top-notch reliability and support.</li>
+    <li><b>Cloxo AI:</b> Providing accessible and free AI inference services with powerful APIs to democratize technology for everyone.</li>
+</ul>
+</div>
+
+<div align="center">
+<h2>Connect with Me 🌎</h2>
 <a href="https://github.com/albinvar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -61,20 +69,23 @@ print_r($albin_bio);
   
 <br/>  
 
-## Github Stats 🧮>
+<div align="center">
+<h2>Github Stats 🧮</h2>
 
 ![Metrics](/github-metrics.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=albinvar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![@albinvar's Holopin board](https://holopin.me/albinvar)](https://holopin.io/@albinvar)
+</div>
 
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pjvb4rystlprej34jojb3n2uze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)" /></div>  
-
+<div align="center">
+<h2>Spotify Vibes 🎵</h2>
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pjvb4rystlprej34jojb3n2uze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)" />
+</div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=albinvar&&style=flat-square" align="center" />
-</div>  
-<br/> 
+</div>
