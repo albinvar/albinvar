@@ -7,6 +7,30 @@
 <img src="./GradientLine.gif" align="center" style="width: 100%"/>
 </div>
 
+A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... maybe. 🤷‍♂️
+
+```php
+<?php
+$albin_bio = [
+    "name" => "🚀 Albin Varghese 🧙‍♂️",
+    "age" => "Turning the page to my 20th chapter.",
+    "crush_on" => "ChatGPT 🤖🤍 (she's got a way with words)",
+    "education" => "Undergraduate CS Engineer",
+    "interests" => [
+        "Tech Enthusiast 💻",
+        "Coding Sorcerer 🔮",
+        "AI & Web Development Explorer 🌐"
+    ],
+    "fun_fact" => ""
+];
+
+print_r($albin_bio);
+?>
+```
+
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=albinvar&theme=gruvbox-duo)](https://git.io/streak-stats)
+
 ## Experience 🧑🏻‍💻
 
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,java,c,nodejs,sass,mysql,postgres,sqlite,supabase,redis,bootstrap,tailwindcss,astro,vue,nuxtjs,flask,django,laravel,fastapi,arduino,jquery,anaconda,bash,powershell,vscode,pycharm,phpstorm,webstorm,androidstudio,sublime,vim,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,github,gitlab,npm,yarn,pnpm,bun,vite,postman,aws,azure,heroku,vercel,netlify,cloudflare,docker,windows,linux,ubuntu,kali&perline=16" alt="Languages" />
