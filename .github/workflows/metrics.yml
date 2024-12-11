@@ -32,28 +32,20 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_timezone: Asia/Calcutta
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
-          plugin_introduction: yes
+          config_display: large
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: html, css, ShaderLab, HLSL, SCSS, roff, Mathematica, jupyter notebook
+          plugin_languages_limit: 10
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_lines: yes
-          plugin_lines_history_limit: 6
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-          plugin_poopmap: yes
-          plugin_poopmap_days: 7
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
           repositories: 200
