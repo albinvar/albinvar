@@ -12,6 +12,7 @@
     A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... maybe. 🤷‍♂️
 </div>
 <br>
+
 ```php
 <?php
 $albin_bio = [
