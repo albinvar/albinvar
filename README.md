@@ -6,8 +6,9 @@
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%"/>
 </div>
-
-A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... maybe. 🤷‍♂️
+<br>
+<br>
+    A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... maybe. 🤷‍♂️
 
 ```php
 <?php
