@@ -34,7 +34,7 @@ print_r($albin_bio);
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=albinvar&theme=gruvbox-duo)](https://git.io/streak-stats)
 
-<div align="center">
+<div align="left">
 <h2>Experience 🧑🏻‍💻</h2>
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,java,c,nodejs,sass,mysql,postgres,sqlite,supabase,redis,bootstrap,tailwindcss,astro,vue,nuxtjs,flask,django,laravel,fastapi,arduino,jquery,anaconda,bash,powershell,vscode,pycharm,phpstorm,webstorm,androidstudio,sublime,vim,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,github,gitlab,npm,yarn,pnpm,bun,vite,postman,aws,azure,heroku,vercel,netlify,cloudflare,docker,windows,linux,ubuntu,kali&perline=16" alt="Languages and Tools" />
 </div>
@@ -42,10 +42,10 @@ print_r($albin_bio);
 <br/> 
 
 <div align="left">
-<h2>About My Dreams 🚀</h2>
+<h2>Ongoing Projects 🚀</h2>
 <ul style="text-align: left; font-size: 18px;">
-    <li><b>Wexron Hosting:</b> Simplifying web hosting and domain services for individuals and businesses with top-notch reliability and support.</li>
-    <li><b>Cloxo AI:</b> Providing accessible and free AI inference services with powerful APIs to democratize technology for everyone.</li>
+    <li><b><a href="https://wexronhosting.com">Wexron Hosting:</a></b> Simplifying web hosting and domain services for individuals and businesses with top-notch reliability and support.</li>
+    <li><b><a href="https://cloxo.co">Cloxo AI:</a></b> Providing accessible and free AI inference services with powerful APIs to democratize technology for everyone.</li>
 </ul>
 </div>
 
