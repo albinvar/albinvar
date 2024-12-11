@@ -11,7 +11,7 @@
 <div align="center" style="font-size: 18px; line-height: 1.5em;">
     A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... maybe. 🤷‍♂️
 </div>
-
+<br>
 ```php
 <?php
 $albin_bio = [
@@ -40,8 +40,8 @@ print_r($albin_bio);
 
 <br/> 
 
-<div align="center">
-<h2>About My Companies 🚀</h2>
+<div align="left">
+<h2>About My Dreams 🚀</h2>
 <ul style="text-align: left; font-size: 18px;">
     <li><b>Wexron Hosting:</b> Simplifying web hosting and domain services for individuals and businesses with top-notch reliability and support.</li>
     <li><b>Cloxo AI:</b> Providing accessible and free AI inference services with powerful APIs to democratize technology for everyone.</li>
