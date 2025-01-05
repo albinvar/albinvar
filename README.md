@@ -8,7 +8,7 @@
 </div>
 <br>
 
-<div align="left" style="font-size: 18px; line-height: 1.5em;">A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... maybe. 🤷‍♂️
+<div align="left" style="font-size: 18px; line-height: 1.5em;">A self-proclaimed master of errors, occasional code whisperer, and a believer in the 'trial and error' approach to coding. If I can make it work, so can you... 🤷‍♂️
 </div>
 <br>
 
